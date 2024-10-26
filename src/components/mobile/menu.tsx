@@ -40,7 +40,7 @@ export default function MobileMenu() {
                 <a href="#projects">Projects</a>
               </li>
               <li>
-                <a href="#portfolio">Portfolio</a>
+                <a href="#contact">Contact</a>
               </li>
             </ul>
           </div>
